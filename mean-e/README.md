@@ -1,4 +1,8 @@
-(note: original repo was [here](https://github.com/linnovate/mean)
+# Notes
+
+- Original MEAN repo was [here](https://github.com/linnovate/mean)
+- Bower hangs (see issue [here](https://github.com/bower/bower/issues/689) because it's looking for 'git' -- change it to 'http' instead:
+    git config --global url."https://".insteadOf git://
 
 # MEAN Stack
 
