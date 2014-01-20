@@ -1,0 +1,17 @@
+{
+    "metadata":
+    {
+        "sensorID": 1,
+        "sensor owner": "John Smith",
+        "coordinates": [0.0, 0.0]
+    },
+    
+    "data":
+    {
+        "date": [],
+        "temp": [],
+        "pressure": [],
+        "conductivity": [],
+        "turbidity": []
+    }
+}
